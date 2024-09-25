@@ -22,7 +22,7 @@ XML se utiliza para almacenar y transportar datos de manera estructurada.
 
 ### Gráfico
 
-![Estructura de HTML](https://example.com/estructura-html.png)
+![Estructura de HTML](https://via.placeholder.com/600x400.png?text=Estructura+de+HTML)
 
 
 ### Tabla
