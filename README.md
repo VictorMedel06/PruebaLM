@@ -23,7 +23,7 @@ XML se utiliza para almacenar y transportar datos de manera estructurada.
 
 ### Tabla
 
-| Lenguaje | Propósito                         | Uso Común                  |
+| Lenguaje | Propósito                         | Uso                  |
 |----------|-----------------------------------|---------------------------|
 | HTML     | Estructurar contenido web        | Creación de páginas web    |
 | CSS      | Estilizar y presentar contenido  | Diseño de interfaces       |
