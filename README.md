@@ -6,9 +6,15 @@ Lenguaje de Marca
 
 La asignatura de Lenguaje de Marca generalmente aborda los conceptos y técnicas utilizados en lenguajes de marcado, como HTML y XML, que son fundamentales para la creación y estructuración de contenido en la web.
 
-## Subtítulo 2
+### Temas Principales
 
-### Lista de Elementos
+#### 1.Html
+HTML es el lenguaje de marcado fundamental para crear páginas web. Se compone de elementos y etiquetas que definen la estructura del contenido.
+#### 2.CSS
+CSS permite estilizar documentos HTML, controlando el diseño y la presentación visual.
+#### 3.XML
+XML se utiliza para almacenar y transportar datos de manera estructurada.
+
 
 - Elemento 1
 - Elemento 2
@@ -16,11 +22,13 @@ La asignatura de Lenguaje de Marca generalmente aborda los conceptos y técnicas
 
 ### Gráfico
 
-![Texto alternativo del gráfico](URL_DEL_GRÁFICO)
+![Estructura de HTML](https://example.com/estructura-html.png)
+
 
 ### Tabla
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-|---------------|---------------|---------------|
-| Fila 1       | Dato 1       | Dato 2       |
-| Fila 2       | Dato 3       | Dato 4       |
+| Lenguaje | Propósito                         | Uso Común                  |
+|----------|-----------------------------------|---------------------------|
+| HTML     | Estructurar contenido web        | Creación de páginas web    |
+| CSS      | Estilizar y presentar contenido  | Diseño de interfaces       |
+| XML      | Almacenar y transportar datos     | Intercambio de información |
