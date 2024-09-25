@@ -1,10 +1,10 @@
 # PruebaLM
 Lenguaje de Marca
-# Título Principal
+# DAW 1
 
-## Subtítulo 1
+## Lenguaje de Marca
 
-Este es un párrafo de texto que describe algo importante. Puedes incluir **negrita** y *cursiva*.
+La asignatura de Lenguaje de Marca generalmente aborda los conceptos y técnicas utilizados en lenguajes de marcado, como HTML y XML, que son fundamentales para la creación y estructuración de contenido en la web.
 
 ## Subtítulo 2
 
