@@ -17,7 +17,8 @@ XML se utiliza para almacenar y transportar datos de manera estructurada.
 
 ### Gráfico
 
-![HTML]([https://via.placeholder.com/600x400.png?text=Estructura+de+HTML](https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/292669042_385912556966634_6965719046033554156_n.png?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eQyZ9hoBNDEQ7kNvgHJefW-&_nc_ht=scontent-mad1-1.xx&_nc_gid=AHvDemBu8PqTcGC-scm64pL&oh=00_AYBYWYRyh3Ap1wUozbHwaLgZaha3F-1j_Sorel1z-9bxmQ&oe=66F98C50))
+![Estructura de HTML](https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/292669042_385912556966634_6965719046033554156_n.png?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eQyZ9hoBNDEQ7kNvgHJefW-&_nc_ht=scontent-mad1-1.xx&_nc_gid=AHvDemBu8PqTcGC-scm64pL&oh=00_AYBYWYRyh3Ap1wUozbHwaLgZaha3F-1j_Sorel1z-9bxmQ&oe=66F98C50)
+
 
 
 ### Tabla
